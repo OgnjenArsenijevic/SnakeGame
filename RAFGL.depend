@@ -1,0 +1,555 @@
+# depslib dependency file v1.0
+1573832556 source:d:\raf\2019 - 2020\grafika\projekti\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563893648 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563893648 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555373963 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1571020569 d:\raf\2019 - 2020\grafika\projekti\rafgl\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	"rafgl_keys.h"
+	<stb_image.h>
+
+1563893648 source:d:\raf\2019 - 2020\grafika\projekti\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1572832674 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1573833186 source:d:\raf\2019 - 2020\grafika\projekti\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<rafgl.h>
+	<game_constants.h>
+
+1569767630 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569781757 d:\raf\2019 - 2020\grafika\projekti\rafgl\rafgl_keys.h
+
+1573826325 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569778157 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\rafgl_keys.h
+
+1571528413 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1572833533 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\game_constants.h
+
+1573824592 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1575117730 source:c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\rafgl_keys.h
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1574867920 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1575125545 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\game_constants.h
+
+1574867919 c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1574867921 source:c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1575139046 source:c:\users\ognjen\desktop\vezbe7\vezbe7\rafgl\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<rafgl.h>
+	<game_constants.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1575117730 source:c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\rafgl_keys.h
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1574867920 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1575125545 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\game_constants.h
+
+1574867919 c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1574867921 source:c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1575142560 source:c:\users\ognjen\desktop\projekatgrafika\projekatgrafika\rafgl\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<rafgl.h>
+	<game_constants.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1575150734 source:c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\rafgl_keys.h
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\game_constants.h
+
+1575150735 c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1575150736 source:c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1575150774 source:c:\users\ognjen\desktop\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<rafgl.h>
+	<game_constants.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1575463335 source:c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\rafgl_keys.h
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\game_constants.h
+
+1575150735 c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1575150736 source:c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1575150774 source:c:\users\ognjen\desktop\projekatgrafika\rg19d1 ognjen arsenijevic rn 10 17\rg19d1 ognjen arsenijevic rn 10 17\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<rafgl.h>
+	<game_constants.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
